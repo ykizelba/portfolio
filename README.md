@@ -1,7 +1,8 @@
-# portfolio
+# About me
 
 
-My name is Yuliya Kizelbasheva and I am a sophomore at DePaul University majoring in Information Technology. I am also a Division 1 student-athlete receiving a full athletic scholarship.
+My name is Yuliya Kizelbasheva and I am a senior at DePaul University majoring in Information Technology. I am also a Division 1 student-athlete receiving a full athletic scholarship.
+
 ![IMG_1751 2](https://user-images.githubusercontent.com/77465778/185792860-852245b7-8191-46bc-91a3-9459c061bbea.JPG)
 
 
@@ -9,4 +10,6 @@ I have taken several classes in which I learned languages such as Java, HTML5, P
 
 I am part of the Women’s Tennis Team at DePaul. We compete in the Big East Conference and we have won the conference four times in the last six years and therefore participate in the NCAA tournament. Also, my doubles partner and I had the chance to participate in the ITA All-American and we managed to advance to the round of 16. Through my athletic experience at DePaul, I have gained leadership skills as well as the ability to manage my time and work in a team environment.
 
-Originally, I am from Armavir, Russia and I love to spend my free time with my family and friends.
+Originally, I am from Armavir, Russia. My main interests are politics and sports.
+
+# Experience
