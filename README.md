@@ -1,4 +1,4 @@
-# About me
+# Yuliya Kizelbasheva - Software Developer
 
 
 My name is Yuliya Kizelbasheva and I am a senior at DePaul University majoring in Information Technology. I am also a Division 1 student-athlete receiving a full athletic scholarship.
@@ -13,3 +13,7 @@ I am part of the Women’s Tennis Team at DePaul. We compete in the Big East Con
 Originally, I am from Armavir, Russia. My main interests are politics and sports.
 
 # Experience
+
+- Web Developer at Armavir Tennis Federation. Created, maintained, and updated website. Wrote documentation for staff in online format (2016 - 2017).
+- Grader at DePaul Uniberstiy. Graded assignments for Data Science classes (2022 - Present).
+- Software Developer Intern at Koya DocuTracker. Created a chart-panel or one of the main applications from the scratch (2022).
