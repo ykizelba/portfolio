@@ -12,6 +12,23 @@ I am part of the Women’s Tennis Team at DePaul. We compete in the Big East Con
 
 Originally, I am from Armavir, Russia. My main interests are politics and sports.
 
+# Education 
+
+DePaul University | BS, Information Technology                                                     	             2019 – Present 
+Concentration in Web Development | 3.97 GPA                                                               		   Expected| 2023
+Awards | Outstanding Freshman of the Year 2020, The CDM Dean’s List at DePaul University, 
+Academic and Athletic Scholarships,
+Relevant Coursework | Applied OO Programing, Application Development, Interactive Web Scripting 
+Computers/Telecomm Systems, Content Management Systems, User Experience Design, 
+Data Analysis, Haptics, Team Project Development with Agile, Business/Professional Communication
+
+Armavir College of Management and Social Info Technologies                        	       	     	               2015 – 2019
+General Secondary Vocational Education in Physical Education and Coaching | 4.0 GPA
+Relevant Coursework | Psychology of Communication, Methods of Educational Work,
+Anatomy, Theoretical and Applicable Aspects of the Methodical Work of a Teacher in Physical Culture and Sports
+Certificate | Mediative Approach to Resolving Conflict Situations in Educational Practice                        2019
+
+
 # Experience
 
 - Web Developer at Armavir Tennis Federation. Created, maintained, and updated website. Wrote documentation for staff in online format (2016 - 2017).
