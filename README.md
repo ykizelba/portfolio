@@ -14,13 +14,13 @@ Originally, I am from Armavir, Russia. My main interests are politics and sports
 
 # Education 
 
-DePaul University | BS, Information Technology                                                     	             2019 – Present 
-Concentration in Web Development | 3.97 GPA                                                               		   Expected| 2023
-Awards | Outstanding Freshman of the Year 2020, The CDM Dean’s List at DePaul University, 
-Academic and Athletic Scholarships,
-Relevant Coursework | Applied OO Programing, Application Development, Interactive Web Scripting 
-Computers/Telecomm Systems, Content Management Systems, User Experience Design, 
-Data Analysis, Haptics, Team Project Development with Agile, Business/Professional Communication
+DePaul University | BS, Information Technology                                                     	             2019 – Expected in 2023
+
+Concentration in Web Development | 3.97 GPA      
+
+Awards | Outstanding Freshman of the Year 2020, The CDM Dean’s List at DePaul University, Academic and Athletic Scholarships.
+
+Relevant Coursework | Applied OO Programing, Application Development, Interactive Web Scripting, Computers/Telecomm Systems, Content Management Systems, User Experience Design, Data Analysis, Haptics, Team Project Development with Agile, Business/Professional Communication
 
 Armavir College of Management and Social Info Technologies                        	       	     	               2015 – 2019
 General Secondary Vocational Education in Physical Education and Coaching | 4.0 GPA
