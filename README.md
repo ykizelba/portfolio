@@ -2,6 +2,8 @@
 
 
 My name is Yuliya Kizelbasheva and I am a sophomore at DePaul University majoring in Information Technology. I am also a Division 1 student-athlete receiving a full athletic scholarship.
+![IMG_1751 2](https://user-images.githubusercontent.com/77465778/185792860-852245b7-8191-46bc-91a3-9459c061bbea.JPG)
+
 
 I have taken several classes in which I learned languages such as Java, HTML5, Python, CSS. I have also taken classes that were focusing on SQL, Web Development, Data Analysis, Agile, and Databases. My goal for the future is to develop my programming skills to a higher level through working on different projects with different teams that will at the same time contribute to the company's welfare.
 
