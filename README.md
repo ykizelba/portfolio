@@ -36,3 +36,23 @@ Certificate | Mediative Approach to Resolving Conflict Situations in Educational
 - Web Developer at Armavir Tennis Federation. Created, maintained, and updated website. Wrote documentation for staff in online format (2016 - 2017).
 - Grader at DePaul Uniberstiy. Graded assignments for Data Science classes (2022 - Present).
 - Software Developer Intern at Koya DocuTracker. Created a chart-panel or one of the main applications from the scratch (2022).
+
+# Skills
+ 
+- Agile Framework                                                                                                                            
+- Scrum Product Development                                              
+- Haptics 
+- Web Design
+- Project Development                                                            
+- Animation
+- Russian: native proficiency
+- English: bilingual proficiency 
+- Spanish: elementary proficiency   
+
+# Technology
+ 
+- HTML, CSS, JavaScript, C#, Python, CMS, React, TypeScript
+- Microsoft Windows, MacOS, Android, iOS
+- Software Installation, Debugging, Microsoft Office
+- Network Configuration, Servers, Routers, Programming, SQL
+- Data analysis: SPSS, ER 
